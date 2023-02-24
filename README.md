@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#So here's some things about me
+#So here's some things about me#
 - trying to learn how computers work
 - *do* already know how magnets work
 - at this point in time trying to learn all about GitHub and Backend development
